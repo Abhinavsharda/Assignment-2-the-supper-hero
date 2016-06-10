@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/*
+* Editor: Abhinav Sharda
+* Student Number: 300868625
+* Date: 9th june,2016
+* Description: Assigment 2 : The super Hero Class
+*/
 namespace Assigment2_the_super_hero
 {
     class SuperHero : Hero
